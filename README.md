@@ -1,9 +1,8 @@
 # CIE439 Spring 2026 Second Leadership 2 (mid semester)
 # Second (Midclass) Leadership Competency Analysis
 
-::: {style="width: 80%; margin-left: 20%; text-align: left;"}
-“Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product” © Gordon-MIT Engineering Leadership Programm.
-:::
+
+    “Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product” © Gordon-MIT Engineering Leadership Programm.
 
 This is an analysis of the data for second leadership survey from 105 respondents, collected in the middle of the course (before Spring break) to establish impacts of weekly group activities (5 out of 6 were finished by the time of the data collection) and to obtain a baseline before the project activities (starting after the spring break).
 
