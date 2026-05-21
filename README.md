@@ -4,9 +4,20 @@
 
 “Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product” © Gordon-MIT Engineering Leadership Programm.
 
-This is an analysis of the data for second leadership survey from 105 respondents, collected in the middle of the course (before Spring break) to establish impacts of weekly group activities (5 out of 6 were finished by the time of the data collection) and to obtain a baseline before the project activities (starting after the spring break).
+
+**Cohort:** Civil Engineering student, mostly juniors, *Spring 2026*.
+
+**Course:** Introduction into Transportation System Analysis (for most students this course is the first exposure to the transportation engineering).
+
+This is an analysis of the data for second leadership survey from 103 respondents, collected in the middle of the course (before Spring break) to establish impacts of weekly group activities (5 out of 6 were finished by the time of the data collection) and to obtain a baseline before the project activities (starting after the spring break).
 
 Before the education begins, students generally feel most confident in collaborative tasks and least confident in formal leadership and innovation-specific roles. Let's see how they feel in the middle of the course.
+
+
+[Link to the initial survey responses analysis](https://birina-tech.github.io/CIE439_Spring_2026_Leadership_1/)
+
+
+
 
 ## Methodology
 
